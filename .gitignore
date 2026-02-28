@@ -1,0 +1,23 @@
+
+# 数据文件
+data/
+*.pth
+*.pt
+*.pkl
+
+# 输出文件
+outputs/
+
+# Python缓存
+__pycache__/
+*.py[cod]
+
+# 环境文件
+.env
+venv/
+
+# 编辑器文件
+.vscode/
+.idea/
+*.swp
+*.swo
