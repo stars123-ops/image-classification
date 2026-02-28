@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 基于pycharm的图像分类  完整的训练流程
 
 #安装依赖
@@ -19,3 +20,7 @@ image_classification_project/
 └── outputs/          # 输出目录
     ├── logs/         # 训练日志
     └── weights/      # 模型权重
+=======
+# image-classification
+image classification
+>>>>>>> 5d6baa383023c279647e445b3ef62239498bd2b5
